@@ -7,7 +7,7 @@ While we could use MEV Triangle or Sandwich strategies, reading from multiple DE
 This is why we are using a front-running strategy. 
 
 ======================================================================================================================================================
-To improve and for V3 version, contact me adtop1219 @discord.
+To improve and for V3 version, contact me `adtop1219` @discord.
 
 
 ===============================Running script=================================
