@@ -7,8 +7,8 @@ While we could use MEV Triangle or Sandwich strategies, reading from multiple DE
 This is why we are using a front-running strategy.  
 
 ======================================================================================================================================================  
-To improve, we should utilize a high-latency RPC node(1) and consider upgrading our plan for blockNative(2) as the free plan is limited to 1000 events per day. 
-And also can build buy, sell func with smart contract for speed up. 
+To improve, we should utilize a high-latency RPC node(1) and consider upgrading our plan for blockNative(2) as the free plan is limited to 1000 events per day.  
+And also can build buy, sell func with smart contract for speed up.  
 Once we reduce latency enough, this strategy can lead to significant profits.:)  
 
 
